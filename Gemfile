@@ -28,4 +28,6 @@ group :development do
   gem 'web-console', '>= 3.3.0'
 end
 
+gem 'jquery-rails'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'devise', '~> 4.5'

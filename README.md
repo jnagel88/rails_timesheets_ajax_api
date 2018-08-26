@@ -29,3 +29,4 @@
  ## TODOs
  
  - refactor user integration tests in posts_spec
+ - add full name for users

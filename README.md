@@ -25,3 +25,7 @@
  
  ## UI:
  Bootstrap -> formatting
+ 
+ ## TODOs
+ 
+ - refactor user integration tests in posts_spec

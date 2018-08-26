@@ -29,5 +29,5 @@ group :development do
 end
 
 gem 'jquery-rails'
-gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'bootstrap', '~> 4.1', '>= 4.1.3'
 gem 'devise', '~> 4.5'
